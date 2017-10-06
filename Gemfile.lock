@@ -1,0 +1,16 @@
+PATH
+  remote: ~/sources/ruby/toui
+  specs:
+    toui (0.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  toui!
+
+BUNDLED WITH
+   1.12.3
